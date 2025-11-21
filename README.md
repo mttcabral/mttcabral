@@ -9,5 +9,5 @@ A software engineer under development. Currently studying Computer Science at UF
 ---
 
 ### 📫 Connect
-* **Website:** [mttcabral.com](https://mttcabral.com/)
-* **LinkedIn:** [linkedin.com/in/mttcabral](https://www.linkedin.com/in/mttcabral/)
+* **Website:** [mttcabral.com](https://www.mttcabral.com/)
+* **LinkedIn:** [in/mttcabral](https://www.linkedin.com/in/mttcabral/)

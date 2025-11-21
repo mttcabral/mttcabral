@@ -1,16 +1,13 @@
-## Hi there 👋
+A software engineer under development. Currently studying Computer Science at UFMG and hold a technical degree in Informatics from UFV.
 
-<!--
-**mttcabral/mttcabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 Skills
+* **Languages:** C++, Python
+* **Tools:** Git, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Connect
+* **Website:** [mttcabral.com](https://mttcabral.com/)
+* **LinkedIn:** [linkedin.com/in/mttcabral](https://www.linkedin.com/in/mttcabral/)

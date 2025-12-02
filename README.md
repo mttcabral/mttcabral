@@ -1,4 +1,4 @@
-A Computer Scientist student at UFMG.
+Majoring in Computer Science at UFMG.
 
 ---
 

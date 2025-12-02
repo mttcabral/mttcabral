@@ -1,4 +1,4 @@
-A Computer Scientist under development at UFMG.
+A Computer Scientist student at UFMG.
 
 ---
 

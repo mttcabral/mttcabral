@@ -1,4 +1,4 @@
-A software engineer under development. Currently studying Computer Science at UFMG and hold a technical degree in Informatics from UFV.
+A Computer Scientist under development at UFMG.
 
 ---
 

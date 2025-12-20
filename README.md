@@ -1,13 +1,2 @@
-Majoring in Computer Science at UFMG.
-
----
-
-### 🛠 Skills
-* **Languages:** C++, Python
-* **Tools:** Git, Linux
-
----
-
-### 📫 Connect
-* **Website:** [mttcabral.com](https://www.mttcabral.com/)
-* **LinkedIn:** [in/mttcabral](https://www.linkedin.com/in/mttcabral/)
+Computer Science undergraduate at UFMG.
+More about me at [mttcabral.com](https://www.mttcabral.com/)
